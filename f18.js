@@ -25,4 +25,4 @@ function cezar(szoveg,eltolas) {
   return sor;
 }
 
-console.log(cezar("hello vilag",3))
+console.log(cezar("deme zalan",8))
